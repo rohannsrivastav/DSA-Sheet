@@ -1,8 +1,10 @@
 # DSA-Sheet
 DSA Sheet by Arsh - Updated 2024
 
-	Arrays 
-Easy	https://leetcode.com/problems/set-matrix-zeroes/
+	**Arrays** 
+ <br>
+ Level | Link
+Easy	| https://leetcode.com/problems/set-matrix-zeroes/
 Easy	https://leetcode.com/problems/move-zeroes/
 Easy	https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 Easy	https://www.geeksforgeeks.org/chocolate-distribution-problem/
